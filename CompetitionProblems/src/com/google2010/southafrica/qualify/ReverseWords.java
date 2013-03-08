@@ -1,3 +1,5 @@
+package com.google2010.southafrica.qualify;
+
 import java.util.Scanner;
 
 /**
