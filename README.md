@@ -1,4 +1,4 @@
-CompetitionProblems
+Competition Problems (Java Solutions)
 ===================
 
 This Repository contains various solutions to programming problems I have solved.
