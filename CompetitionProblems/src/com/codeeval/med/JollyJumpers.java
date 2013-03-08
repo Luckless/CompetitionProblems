@@ -1,4 +1,4 @@
-package com.codeeval;
+package com.codeeval.med;
 
 import java.io.File;
 import java.io.FileNotFoundException;
