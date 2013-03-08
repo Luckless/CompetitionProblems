@@ -3,8 +3,8 @@ package com.google2010.southafrica.qualify;
 import java.util.Scanner;
 
 /**
- * T9 Spelling {@link https
- * ://code.google.com/codejam/contest/351101/dashboard#s=p2}
+ * T9 Spelling 
+ * {@link https://code.google.com/codejam/contest/351101/dashboard#s=p2}
  * 
  * @author Dakota
  * 
